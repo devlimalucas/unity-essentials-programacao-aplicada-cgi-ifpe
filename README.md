@@ -63,18 +63,7 @@ O projeto foi estruturado para equilibrar a visualização do código-fonte e a 
 | **WebGL (Padrão)** | [https://play.unity.com/pt/user/1e1ed468-0437-44a1-aff3-00a93a4c436c](https://play.unity.com/pt/user/1e1ed468-0437-44a1-aff3-00a93a4c436c) | Jogável diretamente no navegador. |
 | **Executável (Completo)** | ➡️ **[CLIQUE AQUI PARA ACESSAR O EXECUTÁVEL COMPLETO (Google Drive)]**(https://drive.google.com/drive/folders/1WLOlsWZoYfPmBgQndL7mJHty1mfwIDS6?usp=sharing) | Inclui o **Conteúdo Bônus/Opcional**. Necessário download e execução local. |# 🚀 Unity Essentials Pathway: Do Básico à Publicação
 
-Este repositório documenta as habilidades e projetos desenvolvidos no Pathway **Unity Essentials**, cobrindo a instalação, navegação no editor, desenvolvimento 3D e 2D, física, áudio, programação básica em C# e publicação de projetos.
-
----
-
-## 📂 Estrutura e Acesso ao Projeto
-
-O projeto foi estruturado para equilibrar a visualização do código-fonte e a distribuição de arquivos pesados:
-
-| Item | Conteúdo | Finalidade |
-| :--- | :--- | :--- |
-| **`README.md`** | Documentação e links de acesso. | Visão geral do projeto e habilidades. |
-| **`Scripts/`** | Código-fonte C# (`.cs`) do jogo. | Análise e revisão da lógica de programação. |
+ C# (`.cs`) do jogo. | Análise e revisão da lógica de programação. |
 | **WebGL (Navegador)** | Jogo jogável **(Versão Padrão)**. | Teste rápido da experiência base. |
 | **Google Drive** | **Executável Completo (com Bônus)**. | Versão completa para download e execução local. |
 
